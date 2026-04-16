@@ -87,7 +87,7 @@ export const Navbar = () => {
             ))}
 
             <Button onClick={scrollToContact}>
-                Contact UPDATED
+                Contact Me
               </Button>
           </div>
         </div>
