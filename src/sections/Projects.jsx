@@ -1,6 +1,6 @@
 import { FiArrowUpRight } from "react-icons/fi";
 import { FaGithub } from "react-icons/fa";
-import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
+import { AnimatedBorderButton } from "@/Components/AnimatedBorderButton";
 const projects = [
   {
     title: "Diabetes Prediction (ML)",
