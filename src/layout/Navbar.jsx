@@ -58,7 +58,7 @@ export const Navbar = () => {
         {/* CTA Button */}
         <div className="hidden md:block">
           <Button size="sm" onClick={scrollToContact}>
-            Contact BUGGGGGG🥺😭
+            Contact Me
           </Button>
         </div>
 
