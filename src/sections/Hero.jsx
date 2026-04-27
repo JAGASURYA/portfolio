@@ -69,7 +69,7 @@ export const Hero = () => {
                     <Button size="lg" onClick={scrollToContact}>
                             Contact Me <ArrowRight className="w-5 h-5" />
                     </Button>
-                    <a href="/Jagasurya_H_Resume.pdf" download>
+                    <a href="/JAGASURYA_H_RESUME.pdf" download>
                         <AnimatedBorderButton>
                             <Download className="w-5 h-5" />
                                  Download CV
